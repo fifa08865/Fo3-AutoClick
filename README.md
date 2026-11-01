@@ -38,9 +38,10 @@
 |:--:|:--|:--|
 | 1 | **1280 × 960** | แนะนำที่สุด สัดส่วน 4:3 ปุ่มชัด จับแม่น และอ่านภาพเร็ว |
 | 2 | **1024 × 768** | เหมาะกับจอเล็ก/โน้ตบุ๊ก สัดส่วน 4:3 |
-| 3 | **1920 × 1080** (หน้าต่าง) | สำหรับจอใหญ่ ถ้าไม่ต้องการเกมขนาดเล็ก |
+| 3 | **1280 × 800** | สัดส่วน 16:10 กว้างพอ ไม่ตัดขอบ เหมาะกับจอไวด์ |
 
 เคล็ดลับ
+- ไม่แนะนำหน้าต่างขนาดใหญ่มาก (เช่น 1920 × 1080) เพราะใหญ่เกินจำเป็นและอ่านภาพช้าลง
 - ใช้สัดส่วน **4:3** (กว้าง:สูง) ถ้าได้ ถ้าหน้าต่างแคบกว่า 4:3 ขอบขวาของเกมจะถูกตัดและปุ่มบางปุ่มอาจมองไม่เห็น
 - ไม่ต้องตั้งความละเอียด Windows ใหม่ แค่ปรับขนาดหน้าต่างเกม
 - ระหว่างทำงาน **อย่าย่อ (minimize) หน้าต่างเกม** ให้ใช้สวิตช์ "ซ่อนหน้าต่างเกม" ในโปรแกรมแทน
@@ -81,9 +82,10 @@ The scale is derived from the game window **height**. These three sizes were ver
 |:--:|:--|:--|
 | 1 | **1280 × 960** | Best choice. 4:3, sharp buttons, accurate and fast detection |
 | 2 | **1024 × 768** | Good for laptops / small screens. 4:3 |
-| 3 | **1920 × 1080** (windowed) | For large monitors |
+| 3 | **1280 × 800** | 16:10, wide enough so nothing is clipped; good for widescreen laptops |
 
 Tips
+- Very large windows (e.g. 1920 × 1080) are not recommended: unnecessarily big and slower to scan.
 - Prefer a **4:3** window. A window narrower than 4:3 clips the right edge of the game and some buttons may be hidden.
 - You do not need to change the Windows resolution, just resize the game window.
 - **Do not minimize the game window** while running; use the "Hide game window" switch instead.
@@ -111,7 +113,7 @@ Tips
 |:--:|:--|:--|
 | 1 | **1280 × 960** | Tốt nhất, tỉ lệ 4:3 |
 | 2 | **1024 × 768** | Phù hợp màn hình nhỏ / laptop |
-| 3 | **1920 × 1080** (cửa sổ) | Cho màn hình lớn |
+| 3 | **1280 × 800** | Tỉ lệ 16:10, không bị cắt cạnh |
 
 Nên dùng tỉ lệ 4:3. Đừng thu nhỏ (minimize) cửa sổ game, hãy dùng nút "Ẩn cửa sổ game". Nhấn **F8** để bắt đầu / dừng.
 
