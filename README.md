@@ -2,10 +2,11 @@
 
 # FO3 Auto League
 
-**โปรแกรมช่วยเล่นลีก (VS COM) ใน FIFA Online 3 TH อัตโนมัติ — ใช้ฟรี**
+**โปรแกรมช่วยเล่นลีก (VS COM) ใน FIFA Online 3 อัตโนมัติ (เกมไทย / เวียดนามบางส่วน) — ใช้ฟรี**
 **Free auto-player for the League (VS COM) mode in FIFA Online 3 TH**
 
 [![Latest release](https://img.shields.io/github/v/release/fifa08865/Fo3-AutoClick?label=download&style=for-the-badge)](https://github.com/fifa08865/Fo3-AutoClick/releases/latest)
+![Downloads](https://img.shields.io/github/downloads/fifa08865/Fo3-AutoClick/total?label=downloads&style=for-the-badge)
 ![Platform](https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/TH%20%7C%20EN%20%7C%20VI-supported-F5C400?style=for-the-badge)
 
@@ -27,6 +28,11 @@
 - จัดการหน้าต่างต่อสัญญา (เลือกต่อสัญญาอัตโนมัติได้ ปิดเป็นค่าเริ่มต้น) และเลือกโหมดมาสเตอร์ลีกให้
 - จำกัดจำนวนรอบได้ / ซ่อนหน้าต่างเกม / ธีมสว่าง-มืด / ภาษาไทย อังกฤษ เวียดนาม
 - หยุดฉุกเฉินด้วย **F8**
+
+### เวอร์ชันของเกมที่รองรับ
+- **เกมไทย (TH):** ทดสอบแล้ว รองรับเต็มรูปแบบ
+- **เกมเวียดนาม (VI):** รองรับลูปลีก (จำลองแข่ง → ผล → สุ่มเลือก → ต่อไป) หน้า LEVEL UP และหน้าต่างต่อสัญญานักเตะ แต่ **ยังไม่รองรับปุ่มต่อสัญญาสีเทา (EP ไม่พอ) และหน้าเลือกโหมดมาสเตอร์ลีก**
+- **เกมอังกฤษ (EN):** ยังไม่ได้ทดสอบ อาจใช้งานได้หรือไม่ได้ (โปรแกรมจับปุ่มจากรูปภาพของเกม)
 
 ### ขนาดหน้าจอเกมที่แนะนำ
 
@@ -71,6 +77,11 @@ Go to **[Releases](https://github.com/fifa08865/Fo3-AutoClick/releases/latest)**
 - Handles the contract dialog (optional auto-renew, OFF by default) and selects Master League mode
 - Round limit, hide-game switch, light/dark theme, Thai / English / Vietnamese UI
 - Emergency stop with **F8**
+
+### Supported game versions
+- **Thai (TH):** tested, fully supported.
+- **Vietnamese (VI):** the basic league loop works (simulate, result, random pick, next, plus the LEVEL UP dialog), tested on the real game. **The greyed-out renew button (not enough EP) and the Master League mode page are not supported yet.**
+- **English (EN):** not tested; it may or may not work (the program detects buttons from game images).
 
 ### Recommended game window size
 
